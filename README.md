@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sudaiskawooya
 - 👀 I’m interested in programming  and system development 
-- 🌱 I’m currently learning django 
+- 🌱 I’m currently nextjs developer
 - 💞️ I’m looking to collaborate on Everything 
-- 📫 How to reach me kawooyasudais1@gmail.com 
+- 📫 How to reach me kawooyasudais2@gmail.com 
 - ⚡ Fun fact: coding is a skill
 
 <!---
